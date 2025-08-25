@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Aug 24 19:06:05 ART 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instance a816c00e-0198-de1e-024c-000007260fd0 
+on database directory /home/matias/Architecturas web/practico1ejercicio1derby/myDerbyDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@639fee48 
+Loaded from file:/home/matias/.m2/repository/org/apache/derby/derby/10.17.1.0/derby-10.17.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=21.0.8+12-LTS-250
+user.dir=/home/matias/Architecturas web/practico1ejercicio1derby
+os.name=Linux
+os.arch=amd64
+os.version=6.8.0-78-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
